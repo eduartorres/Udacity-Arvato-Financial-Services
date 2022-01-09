@@ -54,6 +54,6 @@ This project was completed as part of the [Udacity Data Scientist Nanodegree](ht
 
 The data is provided by Arvato Financial Services, a Bertelsmann subsidiary.It is important to mention that the data used are not open to the public, since for the development of this project it is necessary to agree with the data use policy of the company to make use of this information.
 
-As additional material I used an article published by Palouda entitled: ["Udacity Arvato-Bertelsmann Project"](https://medium.com/@jtatl/udacity-disaster-response-pipeline-project-learning-be2be43878e6), which was of great help for the development of this project. 
+As additional material I used an article published by Palouda entitled: ["Udacity Arvato-Bertelsmann Project"](https://cpalouda.medium.com/udacity-arvato-bertelsmann-project-789d20bf8513), which was of great help for the development of this project. 
 
 
