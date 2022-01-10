@@ -5,7 +5,7 @@ About this project is part of Data Science Nanodegree Program by Udacity. The pr
 
 ## Medium Blog Post
 Medium blog post link:
-- https://medium.com/@felipehuman/project-real-estate-market-analysis-f0dddbb604b9
+- https://medium.com/@felipehuman/customer-segmentation-report-for-arvato-financial-services-844348a5efa7
 
 ## Introduction
 
