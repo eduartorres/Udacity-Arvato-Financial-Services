@@ -47,7 +47,7 @@ The Python version that was used for the development of this project was Python3
 ## File descriptions - Master Branch
 - Arvato Project Workbook.ipynb: This Jupyter Notebook incorporates Data Transformation, Hyperparameter Optimization, Machine Learning Models (Supervised and Unsupervised algorithms), and Visualizations.
 
-- kaggle_submission.csv: CSV file with two columns. The first column of "LNR", which acts as an ID number for each individual in the "TEST" partition. The second column, "RESPONSE", is measure of how likely each individual became a customer.
+- DIAS Attributes.xlsx: Excel spreadsheets listed features with a brief explanation of some variables.
 
 ## Licensing, Authors, Acknowledgements
 This project was completed as part of the [Udacity Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
